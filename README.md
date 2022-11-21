@@ -2,7 +2,7 @@
 A 2D fighter based on the "Naruto The Last" character from the anime Naruto. Functional for the M.U.G.E.N. engine oriented to 2D fighting videogames.
 
 ## Authors 👤
-* **Luis Ángel Sánchez Aguilar (Bills Dios)** -> Naruto code, Kurama code, moveset, design, implementation, Naruto sprites
+* **Luis Ángel Sánchez Aguilar (Bills Dios)** -> Naruto code, Kurama code, moveset, design, implementation, Naruto sprites, Sasuke Sprites, Hinata Sprites
 
     -[LinkedIn](https://www.linkedin.com/in/sanchezluismachinelearning/)
     
