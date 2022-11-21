@@ -36,7 +36,7 @@ https://www.youtube.com/watch?v=JkC5KigB_QA&t=171s&ab_channel=BillsDios
 
 * **[Kyubi Invocacion.cns]**: This file is the programming code for the behavior of the Kyubi or Kurama summoned by Naruto.
 
-* **[Naruto Nanadaime.def]**: This file is the definition file and calls the rest of the character files, such as code, sprites, sounds, palettes, commands and others.
+* **[Naruto The Last.def]**: This file is the definition file and calls the rest of the character files, such as code, sprites, sounds, palettes, commands and others.
 
 * **[Naruto.act]**: This file stores the color palette of the character.
 
