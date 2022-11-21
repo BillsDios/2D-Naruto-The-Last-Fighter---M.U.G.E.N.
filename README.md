@@ -18,7 +18,7 @@ A 2D fighter based on the "Naruto The Last" character from the anime Naruto. Fun
 
 ## Demonstration Video (Gameplay) 🕹
 
-[![Alt text](https://img.youtube.com/vi/JkC5KigB_QA/0.jpg)](https://www.youtube.com/watch?v=vDToUe3tNJE&ab_channel=BillsDios)
+[![Alt text](https://img.youtube.com/vi/JkC5KigB_QA/0.jpg)](https://www.youtube.com/watch?v=JkC5KigB_QA&t=171s&ab_channel=BillsDios)
 
 https://www.youtube.com/watch?v=JkC5KigB_QA&t=171s&ab_channel=BillsDios
 
