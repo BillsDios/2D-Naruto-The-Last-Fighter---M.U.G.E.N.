@@ -6,7 +6,7 @@ A 2D fighter based on the "Naruto The Last" character from the anime Naruto. Fun
 
     -[LinkedIn](https://www.linkedin.com/in/sanchezluismachinelearning/)
     
-    -[YouTube](https://www.youtube.com/channel/UC8X14gUHqfZUegbtFXrhivw)
+    -[YouTube](https://www.youtube.com/@billsdios)
   
 * **Pierre Mings** -> Kurama sprites
 
